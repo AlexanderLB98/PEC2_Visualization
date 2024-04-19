@@ -16,6 +16,7 @@ Los gráficos de barras apiladas son útiles para comparar partes de un conjunto
 ### Tipo de Datos:
 Los gráficos de barras apiladas son adecuados para datos cuantitativos que se pueden dividir en subcategorías. No hay limitaciones específicas en cuanto al tamaño mínimo o máximo del conjunto de datos, pero es importante que los datos sean lo suficientemente desglosados para permitir una comparación significativa entre las subcategorías.
 
+datos: https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
 ![Clasificación del contenido en netflix por año.](stacked_bar_graph.png)
 
 
@@ -55,4 +56,5 @@ Los árboles hiperbólicos son útiles para visualizar estructuras jerárquicas 
 ### Tipo de Datos:
 Los árboles hiperbólicos son adecuados para datos jerárquicos que representan relaciones de parentesco o dependencia entre nodos. No hay limitaciones específicas en cuanto a la estructura de los datos, pero deben estar organizados jerárquicamente para permitir una visualización efectiva.
 
+datos: https://www.kaggle.com/datasets/imtkaggleteam/age-of-characters-and-actors-in-teen-tv-shows?resource=download
 ![Relación de actores con sus crushes.](hyperbolic_tree.png)
