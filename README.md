@@ -16,6 +16,9 @@ Los gráficos de barras apiladas son útiles para comparar partes de un conjunto
 ### Tipo de Datos:
 Los gráficos de barras apiladas son adecuados para datos cuantitativos que se pueden dividir en subcategorías. No hay limitaciones específicas en cuanto al tamaño mínimo o máximo del conjunto de datos, pero es importante que los datos sean lo suficientemente desglosados para permitir una comparación significativa entre las subcategorías.
 
+![Clasificación del contenido en netflix por año.](stacked_bar_graph.png)
+
+
 ## Flow Map
 ### Definición:
 Los mapas de flujo (Flow Map) son una técnica de visualización que muestra el movimiento de objetos o cantidades entre diferentes lugares o regiones.
