@@ -32,6 +32,8 @@ Los mapas de flujo son útiles para visualizar migraciones humanas, rutas comerc
 ### Tipo de Datos:
 Los mapas de flujo son adecuados para datos cuantitativos que representan cantidades o flujos entre ubicaciones geográficas. No hay limitaciones específicas en cuanto a la estructura de los datos, pero deben incluir información sobre el origen, destino y cantidad de flujo entre ubicaciones.
 
+![Flow map de la evolución de tormentas en el sudeste asiático.][Dashboard.png]
+
 ## Hyperbolic Trees
 ### Definición:
 Los árboles hiperbólicos (Hyperbolic Trees) son una técnica de visualización que representa jerarquías de datos de forma radial, donde los nodos se distribuyen en un espacio hiperbólico para enfatizar las relaciones entre ellos.
