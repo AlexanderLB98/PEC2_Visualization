@@ -2,7 +2,7 @@
 
 ## Stacked Bar Graphs
 ### Definición:
-Los gráficos de barras apiladas (Stacked Bar Graphs) son una técnica de visualización que muestra la relación proporcional entre categorías y valores, donde las barras se dividen en segmentos que representan diferentes subcategorías.
+Los gráficos de barras apiladas (Stacked Bar Graphs) son una técnica de visualización que muestra la relación proporcional entre categorías y valores, donde las barras se dividen en segmentos que representan diferentes subcategorías. Muy útil para agrupaciones.
 
 ### Origen:
 La técnica de gráficos de barras apiladas tiene sus orígenes en los gráficos de barras tradicionales, con la adición de segmentación para representar múltiples variables.
