@@ -54,3 +54,5 @@ Los árboles hiperbólicos son útiles para visualizar estructuras jerárquicas 
 
 ### Tipo de Datos:
 Los árboles hiperbólicos son adecuados para datos jerárquicos que representan relaciones de parentesco o dependencia entre nodos. No hay limitaciones específicas en cuanto a la estructura de los datos, pero deben estar organizados jerárquicamente para permitir una visualización efectiva.
+
+![Relación de actores con sus crushes.](hyperbolic_tree.png)
